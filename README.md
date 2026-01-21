@@ -55,6 +55,6 @@
 
 | 💻 Laptop | 🧠 Processor | 🔋 RAM |
 | :---: | :---: | :---: |
-| **Lenovo IdeaPad Slim 3i** | Intel Core i3/i5 (Edit this) | 8GB/16GB (Edit this) |
+| **Lenovo IdeaPad Slim 3i** | Intel Core i5 | 8GB |
 
 <hr/>
