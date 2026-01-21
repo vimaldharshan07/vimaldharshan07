@@ -32,10 +32,10 @@
 
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vimaldharshan07&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimaldharshan07&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 <hr/>
 
