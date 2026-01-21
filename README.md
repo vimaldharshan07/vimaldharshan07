@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="center" width="60%">
       <ul>
         <li>🎓 <strong>Google Student Ambassador</strong> & <strong>Zoho Intern</strong></li>
         <li>🔭 I build blazing-fast UIs and secure APIs</li>
@@ -44,10 +44,26 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-0627-441d-8c49-c7256c367c25.gif" width="100%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
+
+<hr/>
+
+<h2>🧰 Tech Stack</h2>
+
+### 💻 Languages & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,tailwind,bootstrap" />
+</div>
+
+<br/>
+
+### 🔧 Tools I Use
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,npm" />
+</div>
 
 <hr/>
 
