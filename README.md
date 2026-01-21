@@ -1,28 +1,28 @@
 <div align="center">
   
-  <h1 align="center">MERN STACK</h1>
+  <h1 align="center">Hi, I'm Vimaldharshan 👋</h1>
   
-  <h3>🚀 Full Stack @ Mern Stack | Focused on Dev, Design & Systems ⚙️</h3>
+  <h3>🚀 Google Student Ambassador | Zoho Intern 🏢</h3>
   
   <br/>
 
   <h2>🐍 Snake Eating My Contribution</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake.svg">
   </picture>
 
   <br/><br/>
 
   <h2>🌐 Connect With Me</h2>
-  <a href="https://instagram.com/your-handle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
@@ -36,10 +36,11 @@
   <tr>
     <td valign="top" width="60%">
       <ul>
+        <li>🎓 <strong>Google Student Ambassador</strong> & <strong>Zoho Intern</strong></li>
         <li>🔭 I build blazing-fast UIs and secure APIs</li>
-        <li>🖌️ Exploring: <code>AI Integration</code>, <code>github</code></li>
-        <li>💬 Ask me about: <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/></li>
-        <li>🧠 ready to collab</li>
+        <li>🖌️ Exploring: <code>AI Integration</code>, <code>Open Source</code></li>
+        <li>💬 Ask me about: <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Zoho-0081C6?style=flat&logo=zoho&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/></li>
+        <li>🧠 Ready to collab</li>
       </ul>
     </td>
     <td width="40%">
@@ -52,8 +53,8 @@
 
 <h2>💻 My Gear Setup</h2>
 
-| 💻 Laptop | 🧠 Processor | 🎮 Graphics | 🔋 RAM |
-| :---: | :---: | :---: | :---: |
-| Lenovo LOQ | Intel i7-13650HX | GEFORCE RTX 4060 | 24GB |
+| 💻 Laptop | 🧠 Processor | 🔋 RAM |
+| :---: | :---: | :---: |
+| **Lenovo IdeaPad Slim 3i** | Intel Core i3/i5 (Edit this) | 8GB/16GB (Edit this) |
 
 <hr/>
