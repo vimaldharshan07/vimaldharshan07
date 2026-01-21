@@ -1,21 +1,19 @@
 <div align="center">
   
-  <h1 align="center">Hi, I'm Vimaldharshan 👋</h1>
-  
-  <h3>🚀 Google Student Ambassador | Zoho Intern 🏢</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vimaldharshan+%F0%9F%91%8B;Google+Student+Ambassador;Zoho+Intern+%F0%9F%8F%A2;MERN+Stack+Developer" alt="Typing SVG" />
+  </a>
+
   <br/>
 
-  <h2>🐍 Snake Eating My Contribution</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br/><br/>
+  <br/>
 
-  <h2>🌐 Connect With Me</h2>
   <a href="https://www.linkedin.com/in/vimaldharshan07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -26,9 +24,20 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=vimaldharshan07&label=Profile%20Views&color=blue&style=flat" alt="vimaldharshan07" />
+
 </div>
 
-<br/>
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vimaldharshan07&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimaldharshan07&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="150" alt="streak graph"  />
+</div>
+
+<hr/>
 
 <h2>🧠 About Me</h2>
 
@@ -49,7 +58,7 @@
   </tr>
 </table>
 
-<hr/>
+<br/>
 
 <h2>🧰 Tech Stack</h2>
 
