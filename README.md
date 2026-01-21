@@ -38,8 +38,8 @@
       <ul>
         <li>🎓 <strong>Google Student Ambassador</strong> & <strong>Zoho Intern</strong></li>
         <li>🔭 I build blazing-fast UIs and secure APIs</li>
-        <li>🖌️ Exploring: <code>AI Integration</code>, <code>Open Source</code></li>
-        <li>💬 Ask me about: <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Zoho-0081C6?style=flat&logo=zoho&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/></li>
+        <li>🖌️ Exploring: <code>AI Integration</code>, <code>Open Source</code>, <code>Test Automation</code></li>
+        <li>💬 Ask me about: <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Zoho-0081C6?style=flat&logo=zoho&logoColor=white"/></li>
         <li>🧠 Ready to collab</li>
       </ul>
     </td>
@@ -55,14 +55,16 @@
 
 ### 💻 Languages & Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,postgres,tailwind,bootstrap,playwright" />
+  <br/>
+  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" height="40" />
 </div>
 
 <br/>
 
-### 🔧 Tools I Use
+### 🔧 Tools & IDEs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,npm" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,vercel,postman,figma,npm" />
 </div>
 
 <hr/>
