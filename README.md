@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td valign="center" width="60%">
+    <td valign="center" width="50%">
       <ul>
         <li>🎓 <strong>Google Student Ambassador</strong> & <strong>Zoho Intern</strong></li>
         <li>🔭 I build blazing-fast UIs and secure APIs</li>
@@ -52,8 +52,8 @@
         <li>🧠 Ready to collab</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+    <td width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
     </td>
   </tr>
 </table>
