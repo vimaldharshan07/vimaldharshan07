@@ -8,18 +8,18 @@
 
   <h2>🐍 Snake Eating My Contribution</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/vimaldharshan/vimaldharshan/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/vimaldharshan07/vimaldharshan07/blob/output/github-contribution-grid-snake.svg">
   </picture>
 
   <br/><br/>
 
   <h2>🌐 Connect With Me</h2>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/vimaldharshan07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="https://instagram.com/vimaldharshan07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:your-email@example.com">
@@ -44,7 +44,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/vfO688tS3H4He/giphy.gif" width="100%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-0627-441d-8c49-c7256c367c25.gif" width="100%">
     </td>
   </tr>
 </table>
@@ -55,6 +55,6 @@
 
 | 💻 Laptop | 🧠 Processor | 🔋 RAM |
 | :---: | :---: | :---: |
-| **Lenovo IdeaPad Slim 3i** | Intel Core i5 | 8GB |
+| **Lenovo IdeaPad Slim 3i** | Intel Core i5 | 16GB |
 
 <hr/>
