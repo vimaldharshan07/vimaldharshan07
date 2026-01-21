@@ -14,13 +14,13 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/vimaldharshan07/">
+  <a href="https://www.linkedin.com/in/vimal02/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/vimaldharshan07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vimaldharshan05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
@@ -82,6 +82,6 @@
 
 | 💻 Laptop | 🧠 Processor | 🔋 RAM |
 | :---: | :---: | :---: |
-| **Lenovo IdeaPad Slim 3i** | Intel Core i5 | 16GB |
+| **Lenovo IdeaPad Slim 3i** | Intel Core i5 | 8GB |
 
 <hr/>
