@@ -41,7 +41,7 @@
 
 <div align="center">
   <marquee behavior="scroll" direction="right" scrollamount="15">
-    <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="80" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdsY2tlYzN0cXRldGp1cm1tcG5tdDZ1Y29wOHJ0eHJibmY4YzJvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100" />
   </marquee>
 </div>
 
